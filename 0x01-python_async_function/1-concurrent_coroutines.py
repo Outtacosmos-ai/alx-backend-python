@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Module for task 1 - Execute multiple coroutines at the same time with async"""
+"""Execute multiple coroutines concurrently."""
 
 import asyncio
 from typing import List
